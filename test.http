@@ -1,0 +1,10 @@
+POST http://localhost:8000/api/history
+Content-Type: application/json
+
+{
+  "user_id": "d047b93e-5758-4f89-ba4a-059d84309146",
+  "platform": "Instagram",
+  "niche": "dropshipping",
+  "topic": "produit tendance",
+  "result": "post généré ici"
+}
